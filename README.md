@@ -1,6 +1,6 @@
 # Spring-Boot-CRUD-Operation
 
-###Spring Boot Learn oriented sample project
+##Spring Boot Learn oriented sample project
 
 ****
 - Basically 'Create, Update, Delete' transactions are in progress
